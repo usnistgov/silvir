@@ -54,7 +54,7 @@ parso==0.8.3
 pathy==0.10.1
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow==10.0.0
+Pillow==10.0.1
 platformdirs==3.5.0
 preshed==3.0.8
 prompt-toolkit==3.0.38
